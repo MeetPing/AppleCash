@@ -1,0 +1,32 @@
+.middle {
+    position: relative;
+    top: 50px;
+    left: 45%;
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttonsundertheh1 {
+    position: relative;
+    top: -15px;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.getbotbuton {
+    border: none;
+    background-color: lightblue;
+    border-radius: 50px;
+    height: 35px;
+    widows: 60px;
+}
+.serverinvite {
+    border: none;
+    background-color: gold;
+    border-radius: 50px;
+    height: 35px;
+    widows: 60px;
+}
+.serverinvitea {
+    position: relative;
+    top: -35px;
+    left: 80px;
+}
